@@ -1,3 +1,4 @@
-Welcome! Send an image or video to save it.
-
-owner: @sanzy05
+{
+  "message": "Welcome! Send an image or video to save it.",
+  "owner": "@sanzy05"
+}
